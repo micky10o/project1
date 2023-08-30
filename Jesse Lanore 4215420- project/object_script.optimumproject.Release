@@ -1,0 +1,13 @@
+release/chartwidget1.o
+release/chartwidget2.o
+release/chartwidget3.o
+release/chartwidget4.o
+release/chartwidget5.o
+release/main.o
+release/mainwindow.o
+release/moc_chartwidget1.o
+release/moc_chartwidget2.o
+release/moc_chartwidget3.o
+release/moc_chartwidget4.o
+release/moc_chartwidget5.o
+release/moc_mainwindow.o
